@@ -1,0 +1,15 @@
+body{color: blueviolet;}
+
+a:link {
+  color: mintcream;
+}
+a:visited {
+  color: khaki;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: red;
